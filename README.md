@@ -7,6 +7,9 @@
 ![image](./Unnamed%20file%205.png)
 ![image](./Unnamed%20file%206.png)
 
+## Social Media
+https://youtube.com/playlist?list=PL4Uv8oyeLuSz3u2D1J1Rg3b0CAe2IWvd5
+
 ## Contact
 * eMail: bcjd888888@163.com
 * Wechat: BC9588888
