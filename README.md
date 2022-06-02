@@ -1,12 +1,12 @@
 # baichuanjidian 佰川机电
 
-![image](./Unnamed file.png)
-![image](./Unnamed file 2.png)
-![image](./Unnamed file 3.png)
-![image](./Unnamed file 4.png)
-![image](./Unnamed file 5.png)
-![image](./Unnamed file 6.png)
-![image](./Unnamed file 7.png)
+![image](./Unnamed%20file.png)
+![image](./Unnamed%20file%202.png)
+![image](./Unnamed%20file%203.png)
+![image](./Unnamed%20file%204.png)
+![image](./Unnamed%20file%205.png)
+![image](./Unnamed%20file%206.png)
+![image](./Unnamed%20file%207.png)
 
 ## Contact
 * eMail: bcjd888888@163.com
