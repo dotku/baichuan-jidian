@@ -1,4 +1,4 @@
-# Baichuan Jidian 佰川机电
+# 佰川机电
 
 ![image](./Unnamed%20file.png)
 ![image](./Unnamed%20file%202.png)
